@@ -1,3 +1,5 @@
+docs_dir: docs_src
+site_dir: docs
 site_name: My Experiments
 site_url: https://example.com/
 nav:
